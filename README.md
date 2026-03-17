@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Mozaffar! 👋
 
-<!--
-**mozaffar95/mozaffar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student (2nd Year) | 📊 Aspiring Data Analyst → Data Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔍 Passionate about turning raw data into meaningful insights
+- 📚 Currently learning: **SQL (Advanced) | Power BI | NumPy**
+- 🎯 Goal: Data Analyst → Data Engineer
+- 📍 India
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Libraries | Pandas, NumPy, Matplotlib |
+| BI Tools | Power BI *(learning)* |
+| Others | Git, GitHub, VS Code, Jupyter Notebook |
+
+---
+
+## 📂 Projects
+
+### 🚗 [Uber Trip Data Analysis](https://github.com/mozaffar95/Uber-Trip-Data-Analysis)
+> Analyzed Uber Jan-Feb trip data using Python & Pandas
+- Identified busiest days and peak demand periods
+- Analyzed base-wise performance across multiple locations
+- **Tech:** Python, Pandas
+
+### 🍽️ [Zomato Data Analysis](https://github.com/mozaffar95/Zomato-Data-Analysis)
+> Explored Zomato restaurant dataset to find trends
+- **Tech:** Python, SQL
+
+---
+
+## 📈 GitHub Stats
+
+![Mozaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaffar95&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaffar95&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
+
+](your-linkedin-url-here)
+
+---
+
+⭐ *"Data is the new oil — and I'm learning to refine it!"*
