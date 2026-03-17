@@ -20,7 +20,7 @@
 | Languages | Python, SQL |
 | Libraries | Pandas, NumPy, Matplotlib |
 | BI Tools | Power BI *(learning)* |
-| Others | Git, GitHub, VS Code, Jupyter Notebook |
+| Others | Git, GitHub, VS Code, Notebook |
 
 ---
 
@@ -41,7 +41,10 @@
 ## 📈 GitHub Stats
 
 
+
 ![Mozaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaffar95&show_icons=true&theme=tokyonight)
+
+
 
 
 
