@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me
+
 - 🔍 Passionate about turning raw data into meaningful insights
 - 📚 Currently learning: **SQL (Advanced) | Power BI | NumPy**
 - 🎯 Goal: Data Analyst → Data Engineer
@@ -39,18 +40,24 @@
 
 ## 📈 GitHub Stats
 
+
 ![Mozaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaffar95&show_icons=true&theme=tokyonight)
 
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaffar95&layout=compact&theme=tokyonight)
+
+
 
 ---
 
 ## 📫 Connect With Me
+
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
 
-](your-linkedin-url-here)
+](https://www.linkedin.com/in/mozaffar-hussain-868236281)
 
 ---
 
