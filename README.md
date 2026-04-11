@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🔍 Passionate about turning raw data into meaningful insights
-- 📚 Currently learning: **SQL | Power BI | Python |Pandas | 
+- 📚 Currently learning: **SQL | Power BI | Python |Pandas 
 - 🎯 Goal: Data Analyst → Data Engineer
 - 📍 India
 
@@ -18,8 +18,8 @@
 | Category | Tools |
 |---|---|
 | Languages | Python, SQL |
-| Libraries | Pandas, NumPy, Matplotlib |
-| BI Tools | Power BI *(learning)* |
+| Libraries | Pandas, NumPy, |
+| BI Tools | Power BI , Excel |
 | Others | Git, GitHub, VS Code, Notebook |
 
 ---
