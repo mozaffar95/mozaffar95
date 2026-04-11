@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🔍 Passionate about turning raw data into meaningful insights
-- 📚 Currently learning: **SQL (Advanced) | Power BI | NumPy**
+- 📚 Currently learning: **SQL | Power BI | Python |Pandas | 
 - 🎯 Goal: Data Analyst → Data Engineer
 - 📍 India
 
