@@ -1,67 +1,59 @@
-# Hi there, I'm Mozaffar! 👋
+# Hi, I'm Mozaffar Hussain 👋
 
-🎓 BCA Student (2nd Year) | 📊 Aspiring Data Engineer & Data Analyst  
+### Aspiring Data Engineer
 
----
-
-## 🚀 About Me
-
-- 🔍 Passionate about turning raw data into meaningful insights
-- 📚 Currently learning: **SQL | Power BI | Python |Pandas 
-- 🎯 Goal: Data Analyst → Data Engineer
-- 📍 India
+I am passionate about building data pipelines, analyzing data, and solving real-world problems using Python, SQL, PySpark, Databricks, and Power BI.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Skills
 
-| Category | Tools |
-|---|---|
-| Languages | Python, SQL |
-| Libraries | Pandas, NumPy, |
-| BI Tools | Power BI , Excel |
-| Others | Git, GitHub, VS Code, Notebook |
+- Python
+- SQL
+- Pandas
+- NumPy
+- PySpark
+- Databricks
+- Power BI
+- Git & GitHub
 
 ---
 
-## 📂 Projects
+## 📌 Featured Projects
 
-### 🚗 [Uber Trip Data Analysis](https://github.com/mozaffar95/Uber-Trip-Data-Analysis)
-> Analyzed Uber Jan-Feb trip data using Python & Pandas
-- Identified busiest days and peak demand periods
-- Analyzed base-wise performance across multiple locations
-- **Tech:** Python, Pandas
+### 📊 Customer Churn Analysis
+- Cleaned customer data using Python
+- Performed SQL analysis
+- Built an interactive Power BI dashboard
 
-### 🍽️ [Zomato Data Analysis](https://github.com/mozaffar95/Zomato-Data-Analysis)
-> Explored Zomato restaurant dataset to find trends
-- **Tech:** Python, SQL
+### 🚕 Uber Trip Data Analysis
+- Data cleaning with Pandas
+- Exploratory Data Analysis
+- Visualizations and business insights
+
+### 🍽️ Zomato Data Analysis
+- Restaurant data analysis
+- Customer behavior insights
+- Data visualization
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- PySpark
+- Azure Databricks
+- Data Engineering Concepts
 
 ---
 
 ## 📈 GitHub Stats
 
-
-
-![Mozaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaffar95&show_icons=true&theme=tokyonight)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaffar95&layout=compact&theme=tokyonight)
-
-
+(Add GitHub stats cards later)
 
 ---
 
 ## 📫 Connect With Me
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-
-](https://www.linkedin.com/in/mozaffar-hussain-868236281)
-
----
-
-⭐ *"Data is the new oil — and I'm learning to refine it!"*
+- LinkedIn: https://www.linkedin.com/in/mozaffar-hussain-868236281
+- Email: mozaffarh315gmail.com
