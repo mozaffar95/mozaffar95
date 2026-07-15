@@ -1,6 +1,6 @@
 # Hi there, I'm Mozaffar! 👋
 
-🎓 BCA Student (2nd Year) | 📊 Aspiring Data Analyst → Data Engineer
+🎓 BCA Student (2nd Year) | 📊 Aspiring Data Engineer & Data Analyst  
 
 ---
 
