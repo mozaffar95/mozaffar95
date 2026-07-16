@@ -49,11 +49,7 @@ I am passionate about building data pipelines, analyzing data, and solving real-
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
-![Mozaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaffar95&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaffar95&layout=compact&theme=tokyonight)
+mozaffar95
 
 ---
 
