@@ -49,7 +49,7 @@ I am passionate about building data pipelines, analyzing data, and solving real-
 
 ## 📈 GitHub Stats
 
-mozaffar95
+https://github.com/mozaffar95
 
 ---
 
